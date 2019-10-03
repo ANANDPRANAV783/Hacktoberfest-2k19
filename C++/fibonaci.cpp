@@ -13,7 +13,7 @@ int main ()
 { 
 	int n = 9; 
 	cout << fib(n); 
-	cout << "keep hackin";
+	cout << "cool in coding";
 	getchar(); 
 	return 0; 
 } 
